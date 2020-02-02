@@ -1,7 +1,7 @@
 {
   "name": "typescript-nodejs-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple template for typescript Node.js project",
   "main": "index.js",
   "scripts": {
     "start": "npm run serve",
