@@ -4,6 +4,8 @@ This is a simple template to get you started on writing Node.js applications usi
 ## Get started
 
 ```bash
+# if nodemon is not installed
+npm i -g nodemon
 # Development
 npm run watch
 
